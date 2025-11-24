@@ -1,0 +1,23 @@
+.social_font{
+    font-size: 50px;
+    margin-left: 20px;
+    /* background-color: wheat; */
+    margin-top: 40px;
+}
+.bi-instagram{
+    color: orange;
+}
+.bi-whatsapp{
+    color: green;
+}
+a{
+    text-decoration: none;
+}
+.decor{
+    margin-top: 60px;
+    
+}
+.bi-geo-alt{
+    color: chartreuse
+    ;
+}
